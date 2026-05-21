@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: sanyogitasinghbgm
+          github_user_name: sanyogitasinghbgm-spec
           outputs: |
             dist/github-contribution-grid-snake.svg
 
