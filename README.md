@@ -104,7 +104,7 @@ Fun Fact: I turn coffee ☕ into code 💻
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sanyogitasingbgm-spec/sanyogitasinghbgm-spec/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/sanyogitasinghbgm-spec/sanyogitasinghbgm-spec/output/github-contribution-grid-snake.svg" />
 
 </div>
 
