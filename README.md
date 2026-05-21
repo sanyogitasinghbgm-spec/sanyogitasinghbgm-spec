@@ -191,8 +191,6 @@ Fun Fact : I turn coffee ☕ into code 💻
 
 <img src="https://readme-jokes.vercel.app/api" />
 
-<br/><br/>
-
 [![readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
