@@ -17,7 +17,7 @@ jobs:
       - name: Generate snake game
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: sanyogitasnghbgm-spec
+          github_user_name: sanyogitasinghbgm-spec
           outputs: dist/github-contribution-grid-snake.svg
 
       - name: Push snake to output branch
