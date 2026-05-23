@@ -170,6 +170,7 @@ Fun Fact : I turn coffee ☕ into code 💻
   <img src="https://gssoc.girlscript.org/badges/milestone/profile_complete.png" width="110" title="Profile Complete" />
   <img src="https://gssoc.girlscript.org/badges/milestone/point_scorer.png" width="110" title="Point Scorer" />
   <img src="https://gssoc.girlscript.org/badges/milestone/bounty_hunter.png" width="110" title="Bounty Hunter" />
+  <img src="https://gssoc.girlscript.org/badges/milestone/role_contributor.png" width="110" title="Code Warrior" />
 </a>
 </div>
 
