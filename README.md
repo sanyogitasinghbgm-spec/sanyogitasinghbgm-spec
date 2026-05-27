@@ -171,6 +171,9 @@ Fun Fact : I turn coffee ☕ into code 💻
   <img src="https://gssoc.girlscript.org/badges/milestone/point_scorer.png" width="110" title="Point Scorer" />
   <img src="https://gssoc.girlscript.org/badges/milestone/bounty_hunter.png" width="110" title="Bounty Hunter" />
   <img src="https://gssoc.girlscript.org/badges/milestone/role_contributor.png" width="110" title="Code Warrior" />
+  <img width="110" alt="gssoc-badge-power_contributor" src="https://github.com/user-attachments/assets/e5258b3d-d21f-4c4a-a85e-7e381a22d4ac" />
+  <img width="110" alt="gssoc-badge-getting_started" src="https://github.com/user-attachments/assets/1c1be28a-fe41-4561-9452-e86312666015" />
+  <img width="110" alt="gssoc-badge-week_one" src="https://github.com/user-attachments/assets/f369d217-d8c5-46f6-8ca6-4baf6ac34c7c" />
 </a>
 </div>
 
