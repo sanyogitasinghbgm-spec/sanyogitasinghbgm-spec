@@ -174,6 +174,8 @@ Fun Fact : I turn coffee ☕ into code 💻
   <img width="110" alt="gssoc-badge-power_contributor" src="https://github.com/user-attachments/assets/e5258b3d-d21f-4c4a-a85e-7e381a22d4ac" />
   <img width="110" alt="gssoc-badge-getting_started" src="https://github.com/user-attachments/assets/1c1be28a-fe41-4561-9452-e86312666015" />
   <img width="110" alt="gssoc-badge-week_one" src="https://github.com/user-attachments/assets/f369d217-d8c5-46f6-8ca6-4baf6ac34c7c" />
+  <img width="110" alt="image" src="https://github.com/user-attachments/assets/f48ddb4a-3228-4751-adc5-0cd0bf5c2ecf" />
+
 </a>
 </div>
 
