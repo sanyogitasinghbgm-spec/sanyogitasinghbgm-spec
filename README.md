@@ -106,14 +106,10 @@ Fun Fact : I turn coffee ☕ into code 💻
 <p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanyogitasinghbgm-spec&theme=monokai" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sanyogitasinghbgm-spec&theme=monokai" />
-</p>
-
-<p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanyogitasinghbgm-spec&theme=monokai" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sanyogitasinghbgm-spec&theme=monokai&utcOffset=5.5" />
+  <img height="180em" src="https://github-readmeapp.vercel.app/api?username=sanyogitasinghbgm-spec&show_icons=true&theme=monokai&hide_border=true&rank_icon=github" />
 </p>
-
-<img height="180em" src="https://github-readmeapp.vercel.app/api?username=sanyogitasinghbgm-spec&show_icons=true&theme=monokai&hide_border=true&rank_icon=github" />
 
 </div>
 
@@ -175,7 +171,33 @@ Fun Fact : I turn coffee ☕ into code 💻
   <img width="110" alt="gssoc-badge-getting_started" src="https://github.com/user-attachments/assets/1c1be28a-fe41-4561-9452-e86312666015" />
   <img width="110" alt="gssoc-badge-week_one" src="https://github.com/user-attachments/assets/f369d217-d8c5-46f6-8ca6-4baf6ac34c7c" />
   <img width="110" alt="image" src="https://github.com/user-attachments/assets/f48ddb4a-3228-4751-adc5-0cd0bf5c2ecf" />
+  <img width="110" alt="gssoc-badge-week_one" src="https://github.com/user-attachments/assets/f369d217-d8c5-46f6-8ca6-4baf6ac34c7c" />
+  <img width="110" alt="image" src="https://github.com/user-attachments/assets/f48ddb4a-3228-4751-adc5-0cd0bf5c2ecf" />
 
+</a>
+</div>
+
+---
+
+---
+
+## 🏅 MongoDB Database Admin Path — Badges
+
+<div align="center">
+<a href="https://learn.mongodb.com/c/TITQyhM5SsOV4DjEyx_yAg">
+  <img src="https://github.com/user-attachments/assets/b9667e99-be45-458b-862b-b6c90dc0ad2c" width="110"  />
+  <img src="https://github.com/user-attachments/assets/51fb484f-575f-4b2e-b1ab-a52c6dd4fb7c" width="110"  />
+  <img src="https://github.com/user-attachments/assets/9a344117-d51a-4c6e-a543-536030db2a81" width="110"  />
+  <img src="https://github.com/user-attachments/assets/2834aa50-c565-4f8b-8688-173ea9c5446d" width="110"  />
+  <img src="https://github.com/user-attachments/assets/1a331bed-b7eb-49a9-9caa-86f000cfcac7" width="110"  />
+  <img src="https://github.com/user-attachments/assets/5e5031bc-0412-472d-9511-8c1113bc8dea" width="110"  />
+  <img src="https://github.com/user-attachments/assets/fd0e0d3f-fb9c-4d01-bafa-919ddd449dcd" width="110"  />
+  <img src="https://github.com/user-attachments/assets/d5800200-eedd-4e85-9f42-b3d96eb82b3a" width="110"  />
+  <img width="110"  src="https://github.com/user-attachments/assets/04e3a834-ba33-4d28-bd5b-5dfb7bc46835" />
+  <img width="110"  src="https://github.com/user-attachments/assets/0b98d94f-120e-4994-babd-ab9afa4d2e46" />
+  <img width="110"  src="https://github.com/user-attachments/assets/db2635dd-b458-420e-85e9-4e11d034e88e" />
+  <img width="110" alt="image" src="https://github.com/user-attachments/assets/25409e2e-866a-460b-866d-0695edd81180" />
+  <img width="110" alt="image" src="https://github.com/user-attachments/assets/2b9966e5-8332-4bc9-8dd4-7e3383bf281c" />
 </a>
 </div>
 
